@@ -1,7 +1,6 @@
 # Hi, I'm Divyansh 👋
 
-A leader who codes — building AI for the India nobody else is building for.
-
+A leader who codes — building AI for the India.
 **What I'm working on:**
 - 🧠 [FL-QPSO Brain Tumor AI Suite](https://github.com/DIVYANSH-TEJA-09/BrainTumor-FL-Pipeline) — Designed a QPSO-based federated aggregation algorithm that reduces bias for rural clinics.
 - 🌐 [Digi-Biz](https://github.com/DIVYANSH-TEJA-09/business-digitization-agent) — An 8-agent LangGraph pipeline for hyperlocal business digitization, achieving 95% extraction completeness.
