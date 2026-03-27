@@ -1,6 +1,6 @@
 # Hi, I'm Divyansh 👋
 
-AI/ML builder focused on making technology work for India's underserved communities.
+A leader who codes — building AI for the India nobody else is building for.
 
 **What I'm working on:**
 - 🧠 [FL-QPSO Brain Tumor AI Suite](https://github.com/DIVYANSH-TEJA-09/BrainTumor-FL-Pipeline) — Designed a QPSO-based federated aggregation algorithm that reduces bias for rural clinics.
@@ -11,4 +11,4 @@ AI/ML builder focused on making technology work for India's underserved communit
 **Stack:** Python · PyTorch · LangChain · LangGraph · Streamlit · Qdrant
 **Currently:** Tech Lead @ Viswam.AI & President @ DevCatalyst
 
-📍 Hyderabad, India  |  📬 [divyanshteja.edla@gmail.com](mailto:divyanshteja.edla@gmail.com)  |  💼 [LinkedIn](https://linkedin.com/in/divyansh-teja-edla-18557b28b)
+📍 Hyderabad, India  |  🌍 [Portfolio](https://divyansh-teja-edla.vercel.app)  |  📬 [Email](mailto:divyanshteja.edla@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/divyansh-teja-edla-18557b28b)  |  🤗 [HuggingFace](https://huggingface.co/Divs0910)  |  📊 [Kaggle](https://www.kaggle.com/divyanshtejaedla)
