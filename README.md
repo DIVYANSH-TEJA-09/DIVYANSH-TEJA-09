@@ -3,12 +3,12 @@
 AI/ML builder focused on making technology work for India's underserved communities.
 
 **What I'm working on:**
-- 🧠 Federated Learning for healthcare (QPSO-FL algorithm for fair model aggregation)
-- 🌐 LocalLoop — hyperlocal business digitization platform for small Indian businesses
-- 📚 Telugu NLP — agentic RAG systems for Indic language literature
+- 🧠 [FL-QPSO Brain Tumor AI Suite](https://github.com/DIVYANSH-TEJA-09/BrainTumor-FL-Pipeline) — Designed a QPSO-based federated aggregation algorithm that reduces bias for rural clinics.
+- 🌐 [Digi-Biz](https://github.com/DIVYANSH-TEJA-09/business-digitization-agent) — An 8-agent LangGraph pipeline for hyperlocal business digitization, achieving 95% extraction completeness.
+- 📚 [Telugu Agentic RAG](https://github.com/DIVYANSH-TEJA-09/telugu-agentic-rag) — Semantic search and generation over 10,000+ Telugu stories, enforcing quality through autonomous validator agents.
 
 **Research:** Federated Learning | Privacy-preserving ML | Low-resource NLP
 **Stack:** Python · PyTorch · LangChain · LangGraph · Streamlit · Qdrant
-**Currently:** Final year @ Matrusri Engineering College, President of DevCatalyst
+**Currently:** Tech Lead @ Viswam.AI & President @ DevCatalyst
 
 📍 Hyderabad, India  |  📬 [divyanshteja.edla@gmail.com](mailto:divyanshteja.edla@gmail.com)  |  💼 [LinkedIn](https://linkedin.com/in/divyansh-teja-edla-18557b28b)
