@@ -8,6 +8,6 @@ A leader who codes — building AI for the India.
 
 **Research:** Federated Learning | Privacy-preserving ML | Low-resource NLP
 **Stack:** Python · PyTorch · LangChain · LangGraph · Streamlit · Qdrant
-**Currently:** Tech Lead @ Viswam.AI & President @ DevCatalyst
+**Currently:** AI Developer Inter @ Viswam.AI & President @ DevCatalyst
 
 📍 Hyderabad, India  |  🌍 [Portfolio](https://divyansh-teja-edla.vercel.app)  |  📬 [Email](mailto:divyanshteja.edla@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/divyansh-teja-edla-18557b28b)  |  🤗 [HuggingFace](https://huggingface.co/Divs0910)  |  📊 [Kaggle](https://www.kaggle.com/divyanshtejaedla)
