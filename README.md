@@ -13,4 +13,4 @@ A builder who codes — creating AI for India.
 
 **Currently:** Founder & President @ [DevCatalyst](https://www.linkedin.com/company/devcatalystt) · Former AI Developer Intern @ Viswam.AI
 
-📍 Hyderabad, India &nbsp;|&nbsp; 🌍 [Portfolio](https://divyansh-teja-edla.vercel.app) &nbsp;|&nbsp; 📬 [Email](mailto:divyanshteja.edla@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-teja-edla-18557b28b) &nbsp;|&nbsp; 🤗 [HuggingFace](https://huggingface.co/Divs0910) &nbsp;|&nbsp; 📊 [Kaggle](https://www.kaggle.com/divyanshtejaedla)
+📍 Hyderabad, India &nbsp;|&nbsp; 🌍 [Portfolio](https://divyansh-teja-edla.vercel.app) &nbsp;|&nbsp; 📬 [Email](mailto:edladivyanshteja@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-teja-edla-18557b28b) &nbsp;|&nbsp; 🤗 [HuggingFace](https://huggingface.co/Divs0910) &nbsp;|&nbsp; 📊 [Kaggle](https://www.kaggle.com/divyanshtejaedla)
